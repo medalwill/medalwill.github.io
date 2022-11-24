@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Yinglin Zheng",
+  title: "Renshuai Liu",
   description: "",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
