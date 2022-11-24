@@ -122,7 +122,7 @@ Sept. 2021 - present
 Sept. 2017 - 2021
 
 ## Thanks
-Many thanks to my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/) and my mentor Xuan Cheng.
+Many thanks to my mentor Xuan Cheng and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
 <!-- Custom style for this page -->
 
 <style lang="stylus">
