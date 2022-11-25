@@ -28,6 +28,9 @@ I'm currently a graduate student in the [Visual Computing and Graphics Lab](http
 My research interests lie at Computer Vision and Computer Graphics. I'm particularly interested in the areas of face completion and multi-exposure image fusion.
 ## News
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
+- [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
+- [Jun. 2022] Our work on face completion has been submitted to TMM.
+- [Jan. 2022] Our work on face completion has been accepted by Journal of CAD&CG.
 
 ## Some of my paper co-authors
 <!-- [Jing Liao](https://liaojing.github.io/html/), Assistant Professor with the Department of Computer Science, City University of Hong Kong <br> -->
@@ -38,7 +41,7 @@ My research interests lie at Computer Vision and Computer Graphics. I'm particul
 
 ## Publications
 
-Coming Soon!😆
+<!-- Coming Soon!😆 -->
 
 <ProjectCard hideBorder=true image="/projects/pub1.jpg">
 
