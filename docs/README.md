@@ -22,7 +22,7 @@ email: medalwill@stu.xmu.edu.cn
 
 ## About Me
 <!-- (https://vcg.xmu.edu.cn/) -->
-I'm currently a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by associate professor Xuan Cheng. 
+I'm currently a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by assistant professor [Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html). 
 <!--From 2022.6 to 2022.9, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Zhimeng Zhang](https://scholar.google.com/citations?user=FGRtKVoAAAAJ&hl=zh-CN&oi=ao) and [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).-->
 
 My research interests lie at Computer Vision and Computer Graphics. I'm particularly interested in the areas of face completion and multi-exposure image fusion.
@@ -31,7 +31,7 @@ My research interests lie at Computer Vision and Computer Graphics. I'm particul
 
 ## Some of my paper co-authors
 <!-- [Jing Liao](https://liaojing.github.io/html/), Assistant Professor with the Department of Computer Science, City University of Hong Kong <br> -->
-Xuan Cheng, Assistant Professor at School of Informatics, Xiamen University <br>
+[Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html), Assistant Professor at School of Informatics, Xiamen University <br>
 [Ming Zeng](http://mingzeng.xyz/), Associate Professor at School of Informatics, Xiamen University <br>
 [Yinglin Zheng](https://yinglinzheng.netlify.app/), Research Intern at Visual Computing Group, Microsoft Research Asia (MSRA) <br>
 [Wenjin Deng](https://wenjindeng.netlify.app/), Research Intern at Virtual Human Group of NetEase Fuxi AI Lab <br>
@@ -122,7 +122,7 @@ Sept. 2021 - present
 Sept. 2017 - 2021
 
 ## Thanks
-Many thanks to my mentor Xuan Cheng and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
+Many thanks to my mentor [Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html) and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
 <!-- Custom style for this page -->
 
 <style lang="stylus">
