@@ -40,17 +40,17 @@ My research interests lie at Computer Vision and Computer Graphics. I'm particul
 
 Coming Soon!😆
 
-<!--<ProjectCard hideBorder=true image="https://s1.ax1x.com/2022/04/21/LyGJKK.png">-->
+<ProjectCard hideBorder=true image="/projects/pub1.jpg">
 
-<!--  I^2R-Net: Intra- and Inter-Human Relation Network for Multi-Person Pose Estimation-->
+Collaborative Completion of Facial Texture and Displacement in UV Space
 
-<!--  Yiwei Ding*, **Wenjin Deng***, Yinglin Zheng, Pengfei Liu, Jianmin Bao, Meihong Wang, Xuan Cheng, Ming Zeng, Dong Chen-->
+Xuan Cheng, **Renshuai Liu**, Yinglin Zheng, Ming Zeng*
   
-<!--  2022, The 31st International Joint Conference on Artificial Intelligence (IJCAI2022)-->
+2022, Journal of CAD&CG (CCF-A Chinese).
 
-<!-- [Paper](https://arxiv.org/pdf/2206.10892.pdf) [Code](https://github.com/leijue222/Intra-and-Inter-Human-Relation-Network-for-MPEE)-->
+[Paper](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=b87167193cfc44cd9ba18ae31d5034cf)
 
-<!--</ProjectCard>-->
+</ProjectCard>
 
 
 <!--## Projects-->
