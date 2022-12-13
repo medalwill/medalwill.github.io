@@ -43,6 +43,18 @@ My research interests lie at Computer Vision and Computer Graphics. I'm particul
 
 <!-- Coming Soon!😆 -->
 
+<ProjectCard hideBorder=true image="/projects/pub2.jpg">
+
+EMEF: Ensemble Multi-Exposure Image Fusion
+
+**Renshuai Liu**, Chengyang Li, Haitao Cao, Yinglin Zheng, Ming Zeng, Xuan Cheng*
+  
+2023, AAAI Conference on Artificial Intelligence (AAAI).
+
+[Paper](https://github.com/medalwill/EMEF)
+
+</ProjectCard>
+
 <ProjectCard hideBorder=true image="/projects/pub1.jpg">
 
 Collaborative Completion of Facial Texture and Displacement in UV Space
