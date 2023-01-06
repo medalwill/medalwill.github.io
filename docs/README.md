@@ -25,7 +25,7 @@ email: medalwill@stu.xmu.edu.cn
 I'm currently a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by assistant professor [Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html). 
 <!--From 2022.6 to 2022.9, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Zhimeng Zhang](https://scholar.google.com/citations?user=FGRtKVoAAAAJ&hl=zh-CN&oi=ao) and [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).-->
 
-My research interests lie at Computer Vision and Computer Graphics. I'm particularly interested in the areas of face completion and multi-exposure image fusion.
+My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion and multi-exposure image fusion.
 ## News
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
 - [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
