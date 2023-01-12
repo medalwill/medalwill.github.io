@@ -49,7 +49,7 @@ EMEF: Ensemble Multi-Exposure Image Fusion
 
 **Renshuai Liu**, Chengyang Li, Haitao Cao, Yinglin Zheng, Ming Zeng, Xuan Cheng*
   
-2023, AAAI Conference on Artificial Intelligence (AAAI).
+2023, AAAI Conference on Artificial Intelligence (AAAI oral).
 
 [Paper](https://github.com/medalwill/EMEF)
 
