@@ -63,7 +63,7 @@ Xuan Cheng, **Renshuai Liu**, Yinglin Zheng, Ming Zeng*
   
 2022, Journal of CAD&CG (CCF-A Chinese).
 
-[Paper](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=b87167193cfc44cd9ba18ae31d5034cf)
+[Paper](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.2022.18821)
 
 </ProjectCard>
 
