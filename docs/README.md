@@ -43,13 +43,25 @@ My research interests lie in Computer Vision and Computer Graphics. I'm particul
 
 <!-- Coming Soon!😆 -->
 
+<ProjectCard hideBorder=true image="/projects/pub3.png">
+
+Transformer-based High-Fidelity Facial Displacement Completion for Detailed 3D Face Reconstruction
+
+**Renshuai Liu**, Yao Cheng, Sifei Huang, Chengyang Li, Xuan Cheng*
+  
+2023, IEEE Transactions on Multimedia (TMM, JCR1).
+
+[Paper](https://github.com/medalwill/EMEF)
+
+</ProjectCard>
+
 <ProjectCard hideBorder=true image="/projects/pub2.jpg">
 
 EMEF: Ensemble Multi-Exposure Image Fusion
 
 **Renshuai Liu**, Chengyang Li, Haitao Cao, Yinglin Zheng, Ming Zeng, Xuan Cheng*
   
-2023, AAAI Conference on Artificial Intelligence (AAAI oral).
+2023, AAAI Conference on Artificial Intelligence (AAAI oral, CCF-A).
 
 [Paper](https://github.com/medalwill/EMEF)
 
