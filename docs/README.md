@@ -27,6 +27,7 @@ I'm currently a graduate student in the [Visual Computing and Graphics Lab](http
 
 My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion and multi-exposure image fusion.
 ## News
+- [May. 2023] Our work on face completion has been accepted by TMM.
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
 - [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
 - [Jun. 2022] Our work on face completion has been submitted to TMM.
@@ -51,7 +52,7 @@ Transformer-based High-Fidelity Facial Displacement Completion for Detailed 3D F
   
 2023, IEEE Transactions on Multimedia (TMM, JCR1).
 
-[Paper](https://github.com/medalwill/EMEF)
+[Paper](https://ieeexplore.ieee.org/document/10113194)
 
 </ProjectCard>
 
