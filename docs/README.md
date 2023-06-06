@@ -22,10 +22,10 @@ email: medalwill@stu.xmu.edu.cn
 
 ## About Me
 <!-- (https://vcg.xmu.edu.cn/) -->
-I'm currently a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by assistant professor [Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html). 
+I'm currently a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by assistant professor [Xuan Cheng](https://chengxuan90.github.io/). 
 <!--From 2022.6 to 2022.9, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Zhimeng Zhang](https://scholar.google.com/citations?user=FGRtKVoAAAAJ&hl=zh-CN&oi=ao) and [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).-->
 
-My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion and multi-exposure image fusion.
+My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion and digital human.
 ## News
 - [May. 2023] Our work on face completion has been accepted by TMM.
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
@@ -35,7 +35,7 @@ My research interests lie in Computer Vision and Computer Graphics. I'm particul
 
 ## Some of my paper co-authors
 <!-- [Jing Liao](https://liaojing.github.io/html/), Assistant Professor with the Department of Computer Science, City University of Hong Kong <br> -->
-[Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html), Assistant Professor at School of Informatics, Xiamen University <br>
+[Xuan Cheng](https://chengxuan90.github.io/), Assistant Professor at School of Informatics, Xiamen University <br>
 [Ming Zeng](http://mingzeng.xyz/), Associate Professor at School of Informatics, Xiamen University <br>
 [Yinglin Zheng](https://yinglinzheng.netlify.app/), Research Intern at Visual Computing Group, Microsoft Research Asia (MSRA) <br>
 [Wenjin Deng](https://wenjindeng.netlify.app/), Research Intern at Virtual Human Group of NetEase Fuxi AI Lab <br>
@@ -50,7 +50,7 @@ Transformer-based High-Fidelity Facial Displacement Completion for Detailed 3D F
 
 **Renshuai Liu**, Yao Cheng, Sifei Huang, Chengyang Li, Xuan Cheng*
   
-2023, IEEE Transactions on Multimedia (TMM, JCR1).
+2023, IEEE Transactions on Multimedia (**TMM, JCR1**).
 
 [Paper](https://ieeexplore.ieee.org/document/10113194)
 
@@ -62,9 +62,9 @@ EMEF: Ensemble Multi-Exposure Image Fusion
 
 **Renshuai Liu**, Chengyang Li, Haitao Cao, Yinglin Zheng, Ming Zeng, Xuan Cheng*
   
-2023, AAAI Conference on Artificial Intelligence (AAAI oral, CCF-A).
+2023, AAAI Conference on Artificial Intelligence (**AAAI oral, CCF-A**).
 
-[Paper](https://github.com/medalwill/EMEF)
+[Paper](https://arxiv.org/abs/2305.12734) [Code](https://github.com/medalwill/EMEF)
 
 </ProjectCard>
 
@@ -74,7 +74,7 @@ Collaborative Completion of Facial Texture and Displacement in UV Space
 
 Xuan Cheng, **Renshuai Liu**, Yinglin Zheng, Ming Zeng*
   
-2022, Journal of CAD&CG (CCF-A Chinese).
+2022, Journal of CAD&CG (**CCF-A Chinese**).
 
 [Paper](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.2022.18821)
 
@@ -150,7 +150,7 @@ Sept. 2021 - present
 Sept. 2017 - 2021
 
 ## Thanks
-Many thanks to my mentor [Xuan Cheng](https://vcg.xmu.edu.cn/chengxuan.html) and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
+Many thanks to my mentor [Xuan Cheng](https://chengxuan90.github.io/) and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
 <!-- Custom style for this page -->
 
 <style lang="stylus">
