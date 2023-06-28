@@ -63,7 +63,7 @@ EMEF: Ensemble Multi-Exposure Image Fusion
   
 2023, AAAI Conference on Artificial Intelligence (**AAAI oral, CCF-A**).
 
-[Paper](https://arxiv.org/abs/2305.12734) [Code](https://github.com/medalwill/EMEF)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25259) [Code](https://github.com/medalwill/EMEF)
 
 </ProjectCard>
 
