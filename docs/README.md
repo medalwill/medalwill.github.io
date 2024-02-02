@@ -22,10 +22,11 @@ email: medalwill@stu.xmu.edu.cn
 
 ## About Me
 <!-- (https://vcg.xmu.edu.cn/) -->
-I'm a graduate student in the [Visual Computing and Graphics Lab](https://vcg.xmu.edu.cn/) of Xiamen University, supervised by assistant professor [Xuan Cheng](https://chengxuan90.github.io/).  Currently, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
+I'm a graduate student in Xiamen University, supervised by assistant professor [Xuan Cheng](https://chengxuan90.github.io/).  In 2023.06 -2023.12, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion and virtual human.
+My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion, virtual human and AIGC.
 ## News
+- [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024.
 - [May. 2023] Our work on face completion has been accepted by TMM.
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
 - [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
@@ -37,11 +38,24 @@ My research interests lie in Computer Vision and Computer Graphics. I'm particul
 [Xuan Cheng](https://chengxuan90.github.io/), Assistant Professor at School of Informatics, Xiamen University <br>
 [Ming Zeng](http://mingzeng.xyz/), Associate Professor at School of Informatics, Xiamen University <br>
 [Yinglin Zheng](https://yinglinzheng.netlify.app/), Research Intern at Visual Computing Group, Microsoft Research Asia (MSRA) <br>
-[Wenjin Deng](https://wenjindeng.netlify.app/), Research Intern at Virtual Human Group of NetEase Fuxi AI Lab <br>
+[Wenjin Deng](https://wenjindeng.netlify.app/)<br>
+[Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate)<br>
 
 ## Publications
 
 <!-- Coming Soon!😆 -->
+
+<ProjectCard hideBorder=true image="/projects/pub4.png">
+
+Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation
+
+**Renshuai Liu**, Bowen Ma, Wei Zhang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding*, Xuan Cheng*
+  
+2024, arxiv
+
+[Paper](https://arxiv.org/abs/2401.01207) [Page](https://diffsfsr.github.io/)
+
+</ProjectCard>
 
 <ProjectCard hideBorder=true image="/projects/pub3.png">
 
@@ -63,7 +77,7 @@ EMEF: Ensemble Multi-Exposure Image Fusion
   
 2023, AAAI Conference on Artificial Intelligence (**AAAI oral, CCF-A**).
 
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25259) [Code](https://github.com/medalwill/EMEF)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25259) [Code](https://github.com/medalwill/EMEF) [Page](https://xmuemef.github.io/)
 
 </ProjectCard>
 
