@@ -156,7 +156,10 @@ Xuan Cheng, **Renshuai Liu**, Yinglin Zheng, Ming Zeng*
 
 
 ## Education & Experiences
-- **School of Informatics, Xiamen University.** <br/>
+- **Virtual Human Group, NetEase Fuxi AI Lab, Research Intern.** <br/>
+Jun. 2023 - Dec. 2023
+
+- **School of Informatics, Xiamen University, M.S.** <br/>
 Sept. 2021 - present
 
 - **School of Informatics, Xiamen University, B.S.** <br/>
