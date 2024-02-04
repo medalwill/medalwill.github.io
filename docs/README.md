@@ -14,7 +14,7 @@ socials:
     link: https://scholar.google.com/citations?user=V3Gui9wAAAAJ&hl=zh-CN
 
 # researchgate: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Xiamen University
+bio: Climb up the X Of the XMU sign😇
 email: medalwill@stu.xmu.edu.cn
 ---
 
@@ -26,7 +26,7 @@ I'm a graduate student in Xiamen University, supervised by assistant professor [
 
 My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion, virtual human and AIGC.
 ## News
-- [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024.
+<!-- - [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024. -->
 - [May. 2023] Our work on face completion has been accepted by TMM.
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
 - [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
