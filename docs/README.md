@@ -9,9 +9,9 @@ socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/medalwill
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.cn/incareer/in/ACoAAD9tTDEBP8XrYB7uowP4W7c2wT7SOcnkrZM
+  - title: google_scholar
+    icon: "/icons/google-scholar.svg"
+    link: https://scholar.google.com/citations?user=V3Gui9wAAAAJ&hl=zh-CN
 
 # researchgate: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Student at Xiamen University
