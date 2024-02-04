@@ -13,5 +13,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: medalwill/medalwill.github.io
         TARGET_BRANCH: gh_pages
-        BUILD_SCRIPT: yarn && yarn build
+        BUILD_SCRIPT: yarn && yarn config set strict-ssl false && yarn build
         BUILD_DIR: dist/
