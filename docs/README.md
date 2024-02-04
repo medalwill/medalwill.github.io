@@ -45,7 +45,7 @@ My research interests lie in Computer Vision and Computer Graphics. I'm particul
 
 <!-- Coming Soon!😆 -->
 
-<ProjectCard hideBorder=true image="/projects/pub4.png">
+<ProjectCard hideBorder=true image="/projects/pub4.jpg">
 
 Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation
 
