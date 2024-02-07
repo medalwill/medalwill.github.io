@@ -169,6 +169,11 @@ Sept. 2017 - 2021
 Many thanks to my mentor [Xuan Cheng](https://chengxuan90.github.io/) and my bros [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
 <!-- Custom style for this page -->
 
+## Ez Counter
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?medalwill"
+border="0" alt="Web Site Hit Counter"></a>
+
 <style lang="stylus">
 
 .theme-container.home-page .page
