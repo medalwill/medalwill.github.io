@@ -26,7 +26,8 @@ I'm a graduate student in Xiamen University, supervised by assistant professor [
 
 My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion, virtual human and AIGC.
 ## News
-<!-- - [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024. -->
+- [Feb. 2024] Our work on text-to-image has been accepted to CVPR2024.
+- [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024.
 - [May. 2023] Our work on face completion has been accepted by TMM.
 - [Nov. 2022] Our work on multi-exposure image fusion has been accepted by AAAI2023.
 - [Aug. 2022] Our work on multi-exposure image fusion has been submitted to AAAI2023.
@@ -51,7 +52,7 @@ Towards a Simultaneous and Granular Identity-Expression Control in Personalized 
 
 **Renshuai Liu**, Bowen Ma, Wei Zhang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding*, Xuan Cheng*
   
-2024, arxiv
+2024, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**).
 
 [Paper](https://arxiv.org/abs/2401.01207) [Page](https://diffsfsr.github.io/)
 
