@@ -52,7 +52,7 @@ Towards a Simultaneous and Granular Identity-Expression Control in Personalized 
 
 **Renshuai Liu**, Bowen Ma, Wei Zhang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding*, Xuan Cheng*
   
-2024, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**).
+2024, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR highlight, CCF-A**).
 
 [Paper](https://arxiv.org/abs/2401.01207) [Page](https://diffsfsr.github.io/)
 
