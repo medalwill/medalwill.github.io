@@ -14,7 +14,7 @@ socials:
     link: https://scholar.google.com/citations?user=V3Gui9wAAAAJ&hl=zh-CN
 
 # researchgate: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Climb up the X Of the XMU sign😇
+bio: Write the cooode, Change the wooorld😇
 email: medalwill@stu.xmu.edu.cn
 ---
 
@@ -22,9 +22,13 @@ email: medalwill@stu.xmu.edu.cn
 
 ## About Me
 <!-- (https://vcg.xmu.edu.cn/) -->
-I'm a graduate student in Xiamen University, supervised by assistant professor [Xuan Cheng](https://chengxuan90.github.io/).  In 2023.06 -2023.12, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
+I'm currently a Vision Algorithm Researcher in AIPD, TEG, Tencent. 
 
-My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in face completion, multi-exposure image fusion, virtual human and AIGC.
+I got my Master's degree and Bachelor's degree in the School of Informatics at Xiamen University, supervised by [Xuan Cheng](https://chengxuan90.github.io/).  
+
+In 2023.06 -2023.12, I served as a research intern at [Virtual Human Group](https://fuxivirtualhuman.github.io/) of [NetEase Fuxi AI Lab](https://fuxi.163.com/), working with [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate).
+
+My research interests lie in Computer Vision and Computer Graphics. I'm particularly interested in virtual human and AIGC.
 ## News
 - [Feb. 2024] Our work on text-to-image has been accepted to CVPR2024.
 - [Nov. 2023] Our work on text-to-image has been submitted to CVPR2024.
@@ -37,9 +41,8 @@ My research interests lie in Computer Vision and Computer Graphics. I'm particul
 ## Some of my paper co-authors
 <!-- [Jing Liao](https://liaojing.github.io/html/), Assistant Professor with the Department of Computer Science, City University of Hong Kong <br> -->
 [Xuan Cheng](https://chengxuan90.github.io/), Assistant Professor at School of Informatics, Xiamen University <br>
-[Ming Zeng](http://mingzeng.xyz/), Associate Professor at School of Informatics, Xiamen University <br>
 [Yinglin Zheng](https://yinglinzheng.netlify.app/), Research Intern at Visual Computing Group, Microsoft Research Asia (MSRA) <br>
-[Wenjin Deng](https://wenjindeng.netlify.app/)<br>
+[Wenjin Deng](https://winstondeng.github.io/)<br>
 [Yu Ding](https://scholar.google.com/citations?hl=zh-CN&user=T9Vd-rcAAAAJ&view_op=list_works&sortby=pubdate)<br>
 
 ## Publications
@@ -157,17 +160,20 @@ Xuan Cheng, **Renshuai Liu**, Yinglin Zheng, Ming Zeng*
 
 
 ## Education & Experiences
+- **AIPD, TEG Tencent, Vision Algorithm Researcher.** <br/>
+Jul. 2024 - present
+
 - **Virtual Human Group, NetEase Fuxi AI Lab, Research Intern.** <br/>
 Jun. 2023 - Dec. 2023
 
 - **School of Informatics, Xiamen University, M.S.** <br/>
-Sept. 2021 - present
+Sept. 2021 - Jun. 2024
 
 - **School of Informatics, Xiamen University, B.S.** <br/>
-Sept. 2017 - 2021
+Sept. 2017 - Jun. 2021
 
 ## Thanks
-Many thanks to my mentor [Xuan Cheng](https://chengxuan90.github.io/) and my friends [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://wenjindeng.netlify.app/).
+Many thanks to my mentor [Xuan Cheng](https://chengxuan90.github.io/) and my friends [Yinglin Zheng](https://yinglinzheng.netlify.app/), [Wenjin Deng](https://winstondeng.github.io/).
 <!-- Custom style for this page -->
 
 ## Easy Counter
